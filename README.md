@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 
 ![Brayan's github stats](https://github-readme-stats.vercel.app/api?username=BrayanAbraham&count_private=true&show_icons=true&theme=synthwave)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrayanAbraham&layout=donut)
+
 ![](https://komarev.com/ghpvc/?username=BrayanAbraham)
 
 <h3>Where to find me</h3>
