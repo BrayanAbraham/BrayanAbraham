@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-![Brayan's github stats](https://github-readme-stats.vercel.app/api?username=BrayanAbraham&count_private=true)
+![Brayan's github stats](https://github-readme-stats.vercel.app/api?username=BrayanAbraham&count_private=true&show_icons=true&theme=synthwave)
 
 ![](https://komarev.com/ghpvc/?username=BrayanAbraham)
 
